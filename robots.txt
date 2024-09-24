@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ckleple.github.io/sitemap.html.gz
+Sitemap: https://ckleple.github.io/app/sitemap.html.gz
+Sitemap: https://ckleple.github.io/assets/sitemap.html.gz
+Sitemap: https://ckleple.github.io/css/sitemap.html.gz
+Sitemap: https://ckleple.github.io/data/sitemap.html.gz
+Sitemap: https://ckleple.github.io/includes/sitemap.html.gz
+Sitemap: https://ckleple.github.io/item/sitemap.html.gz
+Sitemap: https://ckleple.github.io/src/sitemap.html.gz
